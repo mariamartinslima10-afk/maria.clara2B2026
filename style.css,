@@ -1,0 +1,41 @@
+/* ==========================================================================
+   ESTILO 3: O RETRÔ (JORNAL ANTIGO)
+   Foco em tipografia clássica, leitura confortável e divisões bem marcadas.
+   ========================================================================== */
+
+/* Configuração Geral do Corpo */
+body {
+    background-color: #f4ecd8; /* Cor de fundo papel antigo */
+    color: #1a1a1a;            /* Preto suave para não cansar os olhos */
+    font-family: 'Times New Roman', serif;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Cabeçalho do Blog */
+header {
+    text-align: center;
+    border-bottom: 3px double #000000; /* Linha dupla clássica de jornal */
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+header h1 {
+    font-size: 32pt;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+header p {
+    font-style: italic;
+    margin: 5px 0 0 0;
+    font-size: 12pt;
+    color: #444444;
+}
+
+/* Menu de Navegação */
+nav {
+    text-align: center;
+    border-bottom: 1px solid #000000; /* Linha simples de divisão */
+    padding: 8px 0;
