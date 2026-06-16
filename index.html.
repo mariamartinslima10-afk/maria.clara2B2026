@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Free Fire - Estilo Retrô</title>
+    <style>
+        body {
+            background-color: #f4ecd8;
+            color: #1a1a1a;
+            font-family: 'Times New Roman', serif;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            border-bottom: 3px double #000;
+            padding-bottom: 15px;
+            margin-bottom: 15px;
+        }
+        header h1 {
+            font-size: 28pt;
+            margin: 0;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        header p {
+            font-style: italic;
+            margin: 5px 0 0 0;
+            font-size: 11pt;
+        }
+        nav {
+            text-align: center;
+            border-bottom: 1px solid #000;
+            padding: 5px;
+            margin-bottom: 25px;
+        }
+        nav a {
+            color: #1a1a1a;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+            font-size: 11pt;
+            text-transform: uppercase;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            max-width: 600px;
+            margin: auto;
+            line-height: 1.6;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            font-size: 18pt;
+            border-bottom: 1px solid #000;
+            padding-bottom: 5px;
+            margin-top: 0;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+        }
+        h3 {
+            font-size: 13pt;
+            margin-top: 15px;
+            margin-bottom: 5px;
+        }
+        p {
+            font-size: 11pt;
+            margin-top: 0;
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        ul {
+            margin-top: 0;
+            margin-bottom: 15px;
+            padding-left: 20px;
+        }
+        li {
+            font-size: 11pt;
+            margin-bottom: 8px;
+        }
+        footer {
+            font-style: italic;
+            border-top: 1px solid #000;
+            margin-top: 30px;
+            padding-top: 15px;
+            text-align: center;
+            font-size: 10pt;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Diário do Free Fire</h1>
+        <p>Crônicas, Estratégias e Relatórios de Campo</p>
+    </header>
+
+    <nav>
+        <a href="#personagens">Personagens</a>
+        <a href="#armas">Armas</a>
+        <a href="#sensibilidade">Sensibilidade</a>
+        <a href="#estrategias">Estratégias</a>
+    </nav>
+
+    <main>
+        <section id="personagens">
+            <h2>1. Guia de Personagens e Habilidades</h2>
+            <p>No Free Fire, a escolha do personagem vai muito além da estética: ela define a sua estratégia de jogo. O sistema permite combinar a habilidade ativa de um personagem com até três habilidades passivas de outros, criando combos únicos para diferentes estilos de jogo.</p>
+            <ul>
+                <li><strong>Habilidades Ativas:</strong> Exigem ativação manual e possuem um tempo de recarga (cooldown). Personagens como Alok (que cura e aumenta a velocidade) ou Chrono (que cria um escudo protetor) mudam o ritmo das trocas de tiro.</li>
+                <li><strong>Habilidades Passivas:</strong> Funcionam automaticamente durante toda a partida. Exemplos populares incluem a Kelly (que aumenta a velocidade de corrida) e o Moco (que marca os inimigos atingidos no mapa para a equipe).</li>
+            </ul>
+        </section>
+
+        <section id="armas">
+            <h2>2. Análise de Armas e o "Meta" Atual</h2>
+            <p>O "Meta" (Most Effective Tactic Available) dita quais armas estão dominando o jogo após as atualizações mais recentes da Garena. Compreender os atributos de cada categoria é fundamental para saber qual equipamento carregar na mochila.</p>
+            <ul>
+                <li><strong>Rifles de Assalto (AR):</strong> São as armas mais versáteis para combates a média e longa distância. Modelos como a Scar e a M4A1 são fáceis de controlar, enquanto a Groza se destaca pelo alto dano.</li>
+                <li><strong>Submetralhadoras (SMG):</strong> Dominam o combate a curta distância devido à altíssima cadência de tiro. A MP40 e a Thompson são escolhas frequentes para o ambiente urbano e espaços fechados.</li>
+                <li><strong>Espingardas (Shotguns):</strong> Perfeitas para o "rush" agressivo. Um tiro certeiro de M1887 (conhecida como "dois tiros") ou de MAG-7 pode finalizar um confronto instantaneamente.</li>
+            </ul>
+        </section>
+
+        <section id="sensibilidade">
+            <h2>3. Dicas de Sensibilidade e Configuração de HUD</h2>
+            <p>A precisão dos seus disparos depende diretamente de duas configurações principais: a sensibilidade da tela e a organização do seu HUD (Heads-Up Display). Não existe uma configuração universal perfeita, mas sim ajustes que se adaptam ao seu dispositivo e estilo de jogar.</p>
+            
+            <h3>Ajuste de Sensibilidade</h3>
+            <p>A sensibilidade "Geral" controla a velocidade da câmera ao movimentar o personagem. Para quem busca acertar mais "capas" (tiros na cabeça), a recomendação é manter a sensibilidade alta (entre 90 e 100) e ir reduzindo gradativamente até encontrar o controle ideal para as miras 2x e 4x.</p>
+
+            <h3>Organização do HUD</h3>
+            <p>O HUD padrão nem sempre é o mais eficiente. Jogadores avançados costumam migrar para o HUD de 3 ou 4 dedos, distribuindo os botões de pular, agachar e atirar para os dedos indicadores. Isso permite realizar movimentos complexos, como atirar e colocar uma parede de gelo simultaneamente, de forma muito mais rápida.</p>
+        </section>
+
+        <section id="estrategias">
+            <h2>4. Estratégias de Linhas de Queda e Rotação</h2>
+            <p>Ganhar uma partida de Free Fire começa antes mesmo de pisar no chão. A rota que o avião faz pelo mapa (linha de queda) determina as zonas de maior conflito e as áreas mais seguras para coletar recursos (loot).</p>
+            <ul>
+                <li><strong>Cidades de Alto Risco (Hot Drops):</strong> Locais centrais como Clock Tower e Factory em Bermuda atraem dezenas de jogadores logo no início. Oferecem excelente loot, mas o risco de eliminação precoce é altíssimo.</li>
+                <li><strong>Estratégia de Rotação:</strong> Se o seu foco é ganhar pontos na ranqueada, opte por saltar em cidades periféricas e faça a rotação acompanhando a borda do gás (zona segura). Mover-se pelas laterais reduz a chance de ser cercado por equipes adversárias e garante uma progressão mais controlada até os momentos finais da partida.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Desenvolvido para fins educacionais &copy; 2026</p>
+    </footer>
+
+</body>
+</html>
