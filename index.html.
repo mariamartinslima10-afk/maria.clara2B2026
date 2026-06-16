@@ -2,35 +2,20 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Meu Blog de Free Fire</title>
+    <title>Meu Blog de Tecnologia</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
     <header>
-        <h1>Diário do Free Fire</h1>
-        <p>Crônicas, Estratégias e Relatórios de Campo</p>
+        <h1>Meu Blog</h1>
     </header>
-
     <nav>
-        <a href="#personagens">Personagens</a>
-        <a href="#armas">Armas</a>
-        <a href="#sensibilidade">Sensibilidade</a>
-        <a href="#estrategias">Estratégias</a>
+        <a href="#">Início</a> | <a href="#">Sobre</a>
     </nav>
-
     <main>
-        <section id="personagens">
-            <h2>1. Guia de Personagens e Habilidades</h2>
-            <p>No Free Fire, a escolha do personagem vai muito além da estética: ela define a sua estratégia de jogo. O sistema permite combinar a habilidade ativa de um personagem com até três habilidades passivas de outros, criando combos únicos para diferentes estilos de jogo.</p>
-            
-            <img src="https://previews.123rf.com/images/vamariyav/vamariyav2012/vamariyav201200021/160315685-old-paper-texture-background-vintage-retro-blank-page-space-grunge-spots-for-design-and-space-for.jpg">
-
-            <ul>
-                <li><strong>Habilidades Ativas:</strong> Exigem ativação manual e possuem um tempo de recarga (cooldown). Personagens como Alok ou Chrono mudam o ritmo das trocas de tiro.</li>
-                <li><strong>Habilidades Passivas:</strong> Funcionam automaticamente durante toda a partida. Exemplos populares incluem a Kelly e a Moco.</li>
-            </ul>
-        </section>
-
-        <section id="armas">
-            <h2>2. Análise de Armas e o "
+        <h2>Título da Postagem</h2>
+        <p>Este é o meu primeiro site criado na escola!</p>
+        <img src="[aqui você puxa imagens que você armazenou no GitHub dentro de uma pasta]" alt="Minha Imagem">
+    </main>
+</body>
+</html>
