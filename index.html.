@@ -7,14 +7,36 @@
 </head>
 <body>
     <header>
-        <h1>Meu Blog</h1>
+        <h1>freefire</h1>
     </header>
     <nav>
         <a href="#">Início</a> | <a href="#">Sobre</a>
     </nav>
     <main>
-        <h2>Título da Postagem</h2>
-        <p>Este é o meu primeiro site criado na escola!</p>
+        <h2>1. Guia de Personagens e Habilidades
+No Free Fire, a escolha do personagem vai muito além da estética: ela define a sua estratégia de jogo. O sistema permite combinar a habilidade ativa de um personagem com até três habilidades passivas de outros, criando combos únicos para diferentes estilos de jogo.
+Habilidades Ativas: Exigem ativação manual e possuem um tempo de recarga (cooldown). Personagens como Alok (que cura e aumenta a velocidade) ou Chrono (que cria um escudo protetor) mudam o ritmo das trocas de tiro.
+Habilidades Passivas: Funcionam automaticamente durante toda a partida. Exemplos populares incluem a Kelly (que aumenta a velocidade de corrida) e o Moco (que marca os inimigos atingidos no mapa para a equipe).
+Dica de UX: No seu blog, organize essas informações em "cards" visuais separados por cores: azul para habilidades ativas e verde para passivas. Isso ajuda o leitor a bater o olho e entender a diferença imediatamente.
+2. Análise de Armas e o "Meta" Atual
+O "Meta" (Most Effective Tactic Available) dita quais armas estão dominando o jogo após as atualizações mais recentes da Garena. Compreender os atributos de cada categoria é fundamental para saber qual equipamento carregar na mochila.
+Rifles de Assalto (AR): São as armas mais versáteis para combates a média e longa distância. Modelos como a Scar e a M4A1 são fáceis de controlar, enquanto a Groza se destaca pelo alto dano.
+Submetralhadoras (SMG): Dominam o combate a curta distância devido à altíssima cadência de tiro. A MP40 e a Thompson são escolhas frequentes para o ambiente urbano e espaços fechados.
+Espingardas (Shotguns): Perfeitas para o "rush" agressivo. Um tiro certeiro de M1887 (conhecida como "dois tiros") ou de MAG-7 pode finalizar um confronto instantaneamente.
+3. Dicas de Sensibilidade e Configuração de HUD
+A precisão dos seus disparos depende diretamente de duas configurações principais: a sensibilidade da tela e a organização do seu HUD (Heads-Up Display). Não existe uma configuração universal perfeita, mas sim ajustes que se adaptam ao seu dispositivo e estilo de jogar.
+Ajuste de Sensibilidade
+A sensibilidade "Geral" controla a velocidade da câmera ao movimentar o personagem. Para quem busca acertar mais "capas" (tiros na cabeça), a recomendação é manter a sensibilidade alta (entre 90 e 100) e ir reduzindo gradativamente até encontrar o controle ideal para as miras 2x e 4x.
+Organização do HUD
+O HUD padrão nem sempre é o mais eficiente. Jogadores avançados costumam migrar para o HUD de 3 ou 4 dedos, distribuindo os botões de pular, agachar e atirar para os dedos indicadores. Isso permite realizar movimentos complexos, como atirar e colocar uma parede de gelo simultaneamente, de forma muito mais rápida.
+4. Estratégias de Linhas de Queda e Rotação nos Mapas
+Ganhar uma partida de Free Fire começa antes mesmo de pisar no chão. A rota que o avião faz pelo mapa (linha de queda) determina as zonas de maior conflito e as áreas mais seguras para coletar recursos (loot).
+Cidades de Alto Risco (Hot Drops): Locais centrais como Clock Tower e Factory em Bermuda atraem dezenas de jogadores logo no início. Oferecem excelente loot, mas o risco de eliminação precoce é altíssimo.
+Estratégia de Rotação: Se o seu foco é ganhar pontos na ranqueada, opte por saltar em cidades periféricas e faça a rotação acompanhando a borda do gás (zona segura). Mover-se pelas laterais reduz a chance de ser cercado por equipes adversárias e garante uma progressão mais controlada até os momentos finais da partida.
+</h2>
+<footer>
+        <p>Este é o meu primeiro site criado na escola! maria clara</p>
+        <footer>
         <img src="[aqui você puxa imagens que você armazenou no GitHub dentro de uma pasta]" alt="Minha Imagem">
     </main>
 </body>
